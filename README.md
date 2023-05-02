@@ -15,7 +15,7 @@ Linkr is a web browser application for a social network of link sharing.
 npm i
 ```
 
-3. Populate `.env` file based on `.env.example`. `REACT_APP_BACKEND_URL` should point to your API server (linkr.t-back)
+3. Populate `.env` file based on `.env.example`. `REACT_APP_BACKEND_URL` should point to your API server (linkr-back)(https://github.com/gabrielportelagomes/projeto18-linkr-back)
 
 4. Run the back-end in a development environment:
 
